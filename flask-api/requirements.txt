@@ -1,0 +1,11 @@
+numpy
+keras
+scikit-learn
+pandas
+Pillow
+matplotlib
+seaborn
+tensorflow
+tqdm 
+opencv-python
+flask-cors
